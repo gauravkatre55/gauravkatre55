@@ -30,8 +30,8 @@ E-commerce analysis covering orders, customers, products and sellers.
 - [LinkedIn]( https://www.linkedin.com/in/gauravkatre/)
 - [GitHub](https://github.com/gauravkatre55)
 
-## 📊 My GitHub Statistics
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravkatre55&theme=default)
+
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravkatre55&theme=default)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravkatre55&theme=default)
