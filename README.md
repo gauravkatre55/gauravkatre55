@@ -29,3 +29,7 @@ E-commerce analysis covering orders, customers, products and sellers.
 
 - [LinkedIn]( https://www.linkedin.com/in/gauravkatre/)
 - [GitHub](https://github.com/gauravkatre55)
+
+## 📊 GitHub Statistics
+
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravkatre55&show_icons=true&theme=default)
