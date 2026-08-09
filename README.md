@@ -32,9 +32,8 @@ E-commerce analysis covering orders, customers, products and sellers.
 
 ## 📊 My GitHub Statistics
 
-<a href="https://github.com/gauravkatre55">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravkatre55&show_icons=true&theme=dark" />
-</a>
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravkatre55&show_icons=true&theme=dark)
+
 ## 💻 Most Used Languages
 
 <a href="https://github.com/gauravkatre55">
