@@ -36,6 +36,4 @@ E-commerce analysis covering orders, customers, products and sellers.
 
 ## 💻 Most Used Languages
 
-<a href="https://github.com/gauravkatre55">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkatre55&layout=compact&theme=dark" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkatre55&layout=compact&theme=dark)
