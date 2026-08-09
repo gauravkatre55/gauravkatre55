@@ -1,8 +1,10 @@
+<div align="center">
+
 # 👋 Hi, I'm Gaurav Katre
 
-### Data Analyst | SQL | Python | Power BI | Tableau | Excel
+### Data Analyst | Data Scientist
 
-I am an aspiring Data Analyst passionate about transforming data into meaningful insights through data analysis and visualization.
+</div>
 
 ## 🛠️ Technical Skills
 
