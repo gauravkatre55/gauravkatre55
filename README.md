@@ -36,4 +36,4 @@ E-commerce analysis covering orders, customers, products and sellers.
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravkatre55&theme=github_dark)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravkatre55&theme=github_dark)
+
