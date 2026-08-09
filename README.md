@@ -27,5 +27,5 @@ E-commerce analysis covering orders, customers, products and sellers.
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](YOUR_LINKEDIN_LINK)
+- [LinkedIn]( https://www.linkedin.com/in/gauravkatre/)
 - [GitHub](https://github.com/gauravkatre55)
