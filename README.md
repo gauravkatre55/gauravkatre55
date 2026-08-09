@@ -10,11 +10,13 @@ Turning data into meaningful insights through analysis, visualization, and stati
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technical Skills
 
-| Category | Skills |
-|---|---|
-| **Programming & Querying** | Python, SQL |
+| **Category** | **Skills** |
+|:---:|:---:|
+| **Programming** | Python, SQL |
 | **Data Analysis** | Pandas, NumPy, Excel, EDA |
 | **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
 | **Database** | MySQL |
@@ -22,27 +24,37 @@ Turning data into meaningful insights through analysis, visualization, and stati
 | **Data Preparation** | Data Cleaning, ETL, Feature Engineering |
 | **Machine Learning** | Scikit-learn, Regression, Classification, Clustering |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 Featured Projects
 
 ### 🚕 NYC Taxi Data Analysis
-Analyzed large-scale taxi data using **Python and SQL** to identify trip patterns, revenue trends, and payment behavior.
+
+Large-scale taxi trip analysis using **Python and SQL** to identify trip patterns, revenue trends, and payment behavior.
 
 ### 🏢 Retail Enterprise Customer Intelligence
-Analyzed **sales, customers, products, and transactions** to generate business insights.
+
+Retail analysis focusing on **sales, customers, products, and business performance**.
 
 ### 🛒 Olist E-Commerce Business Performance
-Analyzed **orders, customers, sellers, products, revenue, and delivery performance** using SQL and data analysis.
+
+E-commerce analysis covering **orders, customers, products, sellers, revenue, and delivery performance**.
 
 ### 📈 Retail Sales & Profitability Dashboard
-Built an interactive **Tableau dashboard** to analyze sales, profit, products, customers, and regional performance.
+
+Interactive **Tableau dashboard** analyzing sales, profit, products, customers, and regional performance.
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
+
+## 📊 GitHub Statistics
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravkatre55&theme=github_dark)
 
@@ -52,9 +64,9 @@ Built an interactive **Tableau dashboard** to analyze sales, profit, products, c
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
+
+## 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/gauravkatre/) •
 [GitHub](https://github.com/gauravkatre55)
