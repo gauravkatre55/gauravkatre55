@@ -44,9 +44,6 @@ Retail analysis focusing on **sales, customers, products, and business performan
 
 E-commerce analysis covering **orders, customers, products, sellers, revenue, and delivery performance**.
 
-### 📈 Retail Sales & Profitability Dashboard
-
-Interactive **Tableau dashboard** analyzing sales, profit, products, customers, and regional performance.
 
 </div>
 
