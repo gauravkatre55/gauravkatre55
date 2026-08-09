@@ -12,8 +12,6 @@ Turning data into meaningful insights through analysis, visualization, and stati
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gauravkatre55&label=Profile%20Views&color=0e75b6&style=flat)
-
 ## 🛠️ Technical Skills
 
 | **Category** | **Skills** |
