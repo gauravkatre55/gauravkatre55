@@ -1,107 +1,139 @@
-<!-- Add your generated banner image to your repository at assets/portfolio-banner.png -->
+<!-- ====================================================== -->
+<!--                    PROFILE BANNER                      -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="assets/portfolio-banner.png" width="100%" alt="Gaurav Katre - Data Analyst and Data Scientist"/>
+<img src="assets/portfolio-banner.png" width="100%" alt="Gaurav Katre | Data Analyst | Data Scientist | AI Enthusiast"/>
 
 # 👋 Hi, I'm Gaurav Katre
 
-### Data Analyst | Data Scientist | Machine Learning Enthusiast
+### Data Analyst | Data Scientist | AI & Machine Learning Enthusiast
 
-Turning raw data into meaningful insights and building intelligent solutions using Data Analytics, Machine Learning, and Deep Learning.
+**Transforming Data into Insights | Building Intelligent Solutions**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gauravkatre/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/gauravkatre55)
+I enjoy working with data, uncovering meaningful patterns, developing predictive models, and building data-driven solutions to solve real-world problems.
+
+<p>
+<a href="https://www.linkedin.com/in/gauravkatre/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/gauravkatre55">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🛠️ Technical Skills
 
-</div>
+### 💻 Programming & Data Analysis
 
-| Category | Technologies & Skills |
-|:---:|:---|
-| **Programming** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy, Excel, Exploratory Data Analysis |
-| **Data Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Database** | MySQL |
-| **Statistics** | Probability, Hypothesis Testing, Correlation, Regression |
-| **Data Preparation** | Data Cleaning, ETL, Feature Engineering |
-| **Machine Learning** | Scikit-learn, Regression, Classification, Clustering |
-| **Deep Learning** | TensorFlow, Keras, ANN, CNN, RNN, SimpleRNN |
-| **Data Science** | Predictive Modeling, Model Evaluation, Statistical Analysis, Data-Driven Decision Making |
-| **Tools** | Jupyter Notebook, VS Code, Git, GitHub |
+| Category | Skills |
+|:---|:---|
+| Programming | Python, SQL |
+| Data Analysis | Pandas, NumPy, Excel, Exploratory Data Analysis |
+| Data Visualization | Power BI, Tableau, Matplotlib, Seaborn |
+| Database | MySQL |
+| Data Preparation | Data Cleaning, ETL, Data Transformation, Feature Engineering |
+| Statistics | Probability, Hypothesis Testing, Correlation, Regression |
 
----
+### 🤖 Artificial Intelligence & Machine Learning
 
-<div align="center">
+| Category | Skills |
+|:---|:---|
+| Machine Learning | Scikit-learn, Regression, Classification, Clustering |
+| Deep Learning | TensorFlow, Keras, ANN, CNN, RNN, SimpleRNN |
+| Natural Language Processing | Text Preprocessing, Tokenization, Word Embeddings, Sentiment Analysis |
+| Artificial Intelligence | AI Fundamentals, Neural Networks, Predictive Intelligence |
+| Model Development | Model Training, Evaluation, Optimization, Hyperparameter Tuning |
 
-## 🧠 Data Science & Machine Learning
+### 🧠 Generative AI & Emerging Technologies
 
-</div>
+| Category | Skills |
+|:---|:---|
+| Generative AI | Generative AI Fundamentals |
+| Large Language Models | LLM Fundamentals, Transformer Architecture (Learning) |
+| Prompt Engineering | Prompt Design and Optimization (Learning) |
+| AI Applications | Exploring AI-powered Applications |
 
-- Exploratory Data Analysis (EDA)
-- Data Preprocessing and Feature Engineering
-- Statistical Analysis and Hypothesis Testing
-- Supervised and Unsupervised Learning
-- Regression and Classification Models
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Model Training, Evaluation and Optimization
+### ⚙️ Tools & Technologies
 
----
-
-<div align="center">
-
-## 📊 Featured Projects
-
-</div>
-
-### 🚕 NYC Taxi Data Analysis
-Large-scale taxi trip analysis using **Python and SQL** to identify trip patterns, revenue trends, peak hours, and payment behavior.
-
-### 🏢 Retail Enterprise Customer Intelligence
-Business intelligence dashboard focusing on sales performance, customer behavior, product analysis, and business insights.
-
-### 🛒 Olist E-Commerce Business Performance
-E-commerce business analysis covering orders, customers, products, sellers, revenue, and delivery performance.
-
-### 🤖 Customer Churn Prediction Using ANN
-Deep learning project using an Artificial Neural Network to predict customer churn based on customer information.
-
-### 🎬 Movie Review Sentiment Analysis
-Natural Language Processing project using Embedding and SimpleRNN to classify movie reviews as positive or negative.
-
-### 🧠 Brain Tumor Detection Using CNN
-Deep learning image classification project using Convolutional Neural Networks.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,sklearn,git,github,vscode" />
+</p>
 
 ---
 
+## 🧠 Areas of Interest
+
+- Data Analytics and Business Intelligence
+- Data Science and Predictive Modeling
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Neural Networks
+- Natural Language Processing
+- Generative AI and Large Language Models
+- Statistical Analysis and Data-Driven Decision Making
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Analytics & Business Intelligence
+
+**1. 🚕 NYC Taxi Data Analysis**
+
+Large-scale taxi trip analysis using Python and MySQL to identify revenue trends, trip patterns, peak hours, and payment behavior.
+
+**2. 🏢 Retail Enterprise Customer Intelligence**
+
+Business intelligence project analyzing sales performance, customer behavior, product trends, and business performance.
+
+**3. 🛒 Olist E-Commerce Business Analysis**
+
+Comprehensive e-commerce analysis covering orders, customers, products, sellers, revenue, and delivery performance.
+
+### 🤖 Artificial Intelligence & Deep Learning
+
+**4. Customer Churn Prediction Using ANN**
+
+Developed an Artificial Neural Network to predict customer churn using customer demographic and banking information.
+
+**5. 🎬 Movie Review Sentiment Analysis Using SimpleRNN**
+
+Developed an NLP-based sentiment classification model using Embedding and SimpleRNN to classify movie reviews as positive or negative.
+
+**6. 🧠 Brain Tumor Detection Using CNN**
+
+Deep learning image classification project using Convolutional Neural Networks for brain tumor image classification.
+
+---
+
+## 📈 GitHub Analytics
+
 <div align="center">
 
-## 📈 GitHub Statistics
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravkatre55&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravkatre55&theme=github_dark" width="95%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauravkatre55&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravkatre55&theme=github_dark" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkatre55&layout=compact&theme=github_dark" width="49%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkatre55&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-## 🤝 Connect With Me
+<a href="https://www.linkedin.com/in/gauravkatre/">LinkedIn</a> •
+<a href="https://github.com/gauravkatre55">GitHub</a>
 
-[LinkedIn](https://www.linkedin.com/in/gauravkatre/) • [GitHub](https://github.com/gauravkatre55)
+### 💡 Turning Data into Intelligence!
 
-**Let's turn data into intelligence together! 🚀**
+**Always Learning | Always Building | Always Improving 🚀**
 
 </div>
